@@ -1,3 +1,4 @@
+sudo apt install dos2unix
 git clone https://github.com/jatinjainjbp/RPackages01.git
 cd RPackages01/
 dos2unix ScriptToInstallRPackages.sh
